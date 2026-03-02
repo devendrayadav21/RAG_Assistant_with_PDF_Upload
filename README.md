@@ -1,12 +1,13 @@
 ---
 title: Conversational RAG With PDF
-emoji: 📄
+emoji: 🚀
 colorFrom: blue
 colorTo: green
 sdk: streamlit
 sdk_version: 1.43.2
 app_file: app.py
 pinned: false
+short_description: Conversantion RAG application
 ---
 
 # 📄 Conversational RAG With PDF Uploads and Chat History
