@@ -6,5 +6,7 @@ langchain-groq
 langchain-chroma
 langchain-huggingface
 pypdf
-streamlit==1.2.10
+streamlit
 python-dotenv
+langchain-text-splitters
+chromadb
