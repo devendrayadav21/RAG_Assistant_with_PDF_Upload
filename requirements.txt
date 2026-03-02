@@ -10,3 +10,4 @@ streamlit
 python-dotenv
 langchain-text-splitters
 chromadb
+sentence-transformers
