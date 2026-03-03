@@ -5,9 +5,8 @@ langchain-core
 langchain-groq
 langchain-chroma
 langchain-huggingface
-pypdf
-streamlit>=1.45.1
-python-dotenv
 langchain-text-splitters
 chromadb
 sentence-transformers
+pypdf
+python-dotenv
